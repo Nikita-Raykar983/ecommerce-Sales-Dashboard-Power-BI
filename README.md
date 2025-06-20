@@ -1,4 +1,4 @@
-# Ecommerce-Sales-Dashboard-Power-BI
+# E-commerce-Sales-Dashboard-Power-BI
 ## Project Objective
 To design an interactive dashboard in Power BI that provides detailed insights into e-commerce sales performance by analyzing quantity sold, profit, amount, regions, customer behavior, product categories, and payment modes.
 The goal is to assist businesses in making informed decisions based on sales trends and profitability.
