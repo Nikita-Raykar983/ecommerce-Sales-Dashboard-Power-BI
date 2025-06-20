@@ -3,7 +3,7 @@
 To design an interactive dashboard in Power BI that provides detailed insights into e-commerce sales performance by analyzing quantity sold, profit, amount, regions, customer behavior, product categories, and payment modes.
 The goal is to assist businesses in making informed decisions based on sales trends and profitability.
 
- ## Dataset Used
+
 
  🛠️ Tools & Techniques Used
 - Power BI Desktop
@@ -15,7 +15,7 @@ The goal is to assist businesses in making informed decisions based on sales tre
 - Interactive visuals: bar charts, donut charts, slicers, filters
 
 - Geographical visual using Map (City & State)
-- 
+
 ## ❓ Business Questions Answered
 - Which state generates the highest revenue and profit?
 
